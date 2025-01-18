@@ -1,0 +1,171 @@
+2025-01-18 16:47:31,477 - aqt.main - ERROR - installer 140200412428096 Invalid version: '6.9'! Please use the form '5.X.Y'.
+2025-01-18 16:47:42,518 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690/Updates.xml.sha256
+2025-01-18 16:47:46,387 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:47:47,590 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:47:51,802 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:47:53,155 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:47:54,433 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:47:55,744 - aqt.metadata - DEBUG - metadata 140425944074048 Failed to download checksum for the file 'Updates.xml' from mirrors '['https://download.qt.io']
+2025-01-18 16:47:55,745 - aqt.metadata - DEBUG - metadata 140425944074048 Failed to retrieve arches list with extension `wasm_singlethread`. Please check that this extension exists for this version of Qt: if not, code changes will be necessary.
+2025-01-18 16:47:55,745 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:47:57,050 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:47:58,215 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:48:00,180 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:48:01,386 - aqt.helper - DEBUG - helper 140425944074048 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_690/qt6_690_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:48:02,609 - aqt.metadata - DEBUG - metadata 140425944074048 Failed to download checksum for the file 'Updates.xml' from mirrors '['https://download.qt.io']
+2025-01-18 16:48:02,610 - aqt.metadata - DEBUG - metadata 140425944074048 Failed to retrieve arches list with extension `wasm_multithread`. Please check that this extension exists for this version of Qt: if not, code changes will be necessary.
+2025-01-18 16:48:38,503 - aqt.helper - DEBUG - helper 140459183929152 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/Updates.xml.sha256
+2025-01-18 16:48:40,873 - aqt.helper - DEBUG - helper 140459183929152 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652_wasm_singlethread/Updates.xml.sha256
+2025-01-18 16:48:43,521 - aqt.helper - DEBUG - helper 140459183929152 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652_wasm_multithread/Updates.xml.sha256
+2025-01-18 16:50:01,633 - aqt.main - INFO - installer 140541299775296 aqtinstall(aqt) v3.1.18 on Python 3.8.10 [CPython GCC 9.4.0]
+2025-01-18 16:50:01,634 - aqt.helper - DEBUG - helper 140541299775296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/Updates.xml.sha256
+2025-01-18 16:50:08,271 - aqt.helper - DEBUG - helper 140490686498624 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtbase-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:08,410 - aqt.helper - DEBUG - helper 140546108614464 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtsvg-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:08,518 - aqt.helper - DEBUG - helper 139833914398528 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtdeclarative-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:08,648 - aqt.helper - DEBUG - helper 139635645286208 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttools-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:09,449 - aqt.helper - INFO - helper 140490686498624 Downloading qtbase...
+2025-01-18 16:50:09,450 - aqt.installer - DEBUG - installer 140490686498624 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtbase-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:09,565 - aqt.helper - INFO - helper 140546108614464 Downloading qtsvg...
+2025-01-18 16:50:09,567 - aqt.installer - DEBUG - installer 140546108614464 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtsvg-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:09,740 - aqt.helper - INFO - helper 139833914398528 Downloading qtdeclarative...
+2025-01-18 16:50:09,745 - aqt.installer - DEBUG - installer 139833914398528 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtdeclarative-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:09,848 - aqt.helper - INFO - helper 139635645286208 Downloading qttools...
+2025-01-18 16:50:09,848 - aqt.installer - DEBUG - installer 139635645286208 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttools-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:10,849 - aqt.helper - DEBUG - helper 140490686498624 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtbase-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:10,849 - aqt.helper - INFO - helper 140490686498624 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:10,849 - aqt.helper - DEBUG - helper 140546108614464 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtsvg-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:10,849 - aqt.helper - INFO - helper 140546108614464 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:11,155 - aqt.helper - DEBUG - helper 139635645286208 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttools-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:11,155 - aqt.helper - DEBUG - helper 139833914398528 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtdeclarative-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:11,156 - aqt.helper - INFO - helper 139635645286208 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:11,156 - aqt.helper - INFO - helper 139833914398528 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:12,597 - aqt.installer - INFO - installer 140546108614464 Finished installation of qtsvg-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 4.19080221
+2025-01-18 16:50:12,621 - aqt.helper - DEBUG - helper 140546108614464 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttranslations-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:15,078 - aqt.helper - INFO - helper 140546108614464 Downloading qttranslations...
+2025-01-18 16:50:15,080 - aqt.installer - DEBUG - installer 140546108614464 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttranslations-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:17,940 - aqt.helper - DEBUG - helper 140546108614464 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qttranslations-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:17,959 - aqt.helper - INFO - helper 140546108614464 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:24,829 - aqt.installer - INFO - installer 140546108614464 Finished installation of qttranslations-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 12.21125370
+2025-01-18 16:50:24,843 - aqt.helper - DEBUG - helper 140546108614464 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtwayland-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z.sha256
+2025-01-18 16:50:27,861 - aqt.helper - INFO - helper 140546108614464 Downloading qtwayland...
+2025-01-18 16:50:27,862 - aqt.installer - DEBUG - installer 140546108614464 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtwayland-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:31,267 - aqt.helper - DEBUG - helper 140546108614464 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352qtwayland-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z
+2025-01-18 16:50:31,267 - aqt.helper - INFO - helper 140546108614464 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:32,947 - aqt.installer - INFO - installer 140546108614464 Finished installation of qtwayland-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 8.10655236
+2025-01-18 16:50:32,972 - aqt.helper - DEBUG - helper 140546108614464 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352icu-linux-Rhel7.2-x64.7z.sha256
+2025-01-18 16:50:34,367 - aqt.installer - INFO - installer 140490686498624 Finished installation of qtbase-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 26.10070606
+2025-01-18 16:50:34,461 - aqt.helper - INFO - helper 140546108614464 Downloading icu...
+2025-01-18 16:50:34,462 - aqt.installer - DEBUG - installer 140546108614464 Download URL: https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352icu-linux-Rhel7.2-x64.7z
+2025-01-18 16:50:36,274 - aqt.helper - DEBUG - helper 140546108614464 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/linux_x64/desktop/qt6_652/qt.qt6.652.gcc_64/6.5.2-0-202307080352icu-linux-Rhel7.2-x64.7z
+2025-01-18 16:50:36,274 - aqt.helper - INFO - helper 140546108614464 Redirected: qt.mirror.constant.com
+2025-01-18 16:50:48,324 - aqt.installer - INFO - installer 139635645286208 Finished installation of qttools-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 39.67935616
+2025-01-18 16:50:49,355 - aqt.installer - INFO - installer 140546108614464 Finished installation of icu-linux-Rhel7.2-x64.7z in 16.38699958
+2025-01-18 16:50:54,923 - aqt.installer - INFO - installer 139833914398528 Finished installation of qtdeclarative-Linux-RHEL_8_4-GCC-Linux-RHEL_8_4-X86_64.7z in 46.41050611
+2025-01-18 16:50:55,080 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/bin/qmake
+2025-01-18 16:50:55,086 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6OpenGL.pc
+2025-01-18 16:50:55,086 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Linguist.pc
+2025-01-18 16:50:55,086 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Test.pc
+2025-01-18 16:50:55,086 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlXmlListModel.pc
+2025-01-18 16:50:55,087 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6DBus.pc
+2025-01-18 16:50:55,087 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Qml.pc
+2025-01-18 16:50:55,087 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Svg.pc
+2025-01-18 16:50:55,087 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsSharedImage.pc
+2025-01-18 16:50:55,087 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlCore.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Quick.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Core.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlIntegration.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Sql.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsWavefrontMesh.pc
+2025-01-18 16:50:55,088 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6SvgWidgets.pc
+2025-01-18 16:50:55,089 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsQmlModels.pc
+2025-01-18 16:50:55,089 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Xml.pc
+2025-01-18 16:50:55,089 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Help.pc
+2025-01-18 16:50:55,089 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6PrintSupport.pc
+2025-01-18 16:50:55,090 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6UiTools.pc
+2025-01-18 16:50:55,090 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsAnimation.pc
+2025-01-18 16:50:55,090 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlLocalStorage.pc
+2025-01-18 16:50:55,090 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Gui.pc
+2025-01-18 16:50:55,090 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickTest.pc
+2025-01-18 16:50:55,091 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickControls2Impl.pc
+2025-01-18 16:50:55,091 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6OpenGLWidgets.pc
+2025-01-18 16:50:55,091 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsSettings.pc
+2025-01-18 16:50:55,091 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickControls2.pc
+2025-01-18 16:50:55,091 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickWidgets.pc
+2025-01-18 16:50:55,092 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlModels.pc
+2025-01-18 16:50:55,092 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QmlWorkerScript.pc
+2025-01-18 16:50:55,092 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6LabsFolderListModel.pc
+2025-01-18 16:50:55,092 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickDialogs2QuickImpl.pc
+2025-01-18 16:50:55,093 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Network.pc
+2025-01-18 16:50:55,093 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6UiPlugin.pc
+2025-01-18 16:50:55,093 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickDialogs2Utils.pc
+2025-01-18 16:50:55,093 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Concurrent.pc
+2025-01-18 16:50:55,093 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickTemplates2.pc
+2025-01-18 16:50:55,094 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickLayouts.pc
+2025-01-18 16:50:55,094 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Platform.pc
+2025-01-18 16:50:55,094 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Widgets.pc
+2025-01-18 16:50:55,095 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6QuickDialogs2.pc
+2025-01-18 16:50:55,095 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6Designer.pc
+2025-01-18 16:50:55,095 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/pkgconfig/Qt6WaylandClient.pc
+2025-01-18 16:50:55,097 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6WlShellIntegration.prl
+2025-01-18 16:50:55,097 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickShapes.prl
+2025-01-18 16:50:55,097 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6OpenGL.prl
+2025-01-18 16:50:55,097 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Test.prl
+2025-01-18 16:50:55,098 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlDebug.prl
+2025-01-18 16:50:55,098 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlTypeRegistrar.prl
+2025-01-18 16:50:55,098 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6SvgWidgets.prl
+2025-01-18 16:50:55,098 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Help.prl
+2025-01-18 16:50:55,099 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6WaylandClient.prl
+2025-01-18 16:50:55,099 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickTest.prl
+2025-01-18 16:50:55,099 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsAnimation.prl
+2025-01-18 16:50:55,100 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickTemplates2.prl
+2025-01-18 16:50:55,101 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsFolderListModel.prl
+2025-01-18 16:50:55,101 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Sql.prl
+2025-01-18 16:50:55,101 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Widgets.prl
+2025-01-18 16:50:55,101 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6EglFSDeviceIntegration.prl
+2025-01-18 16:50:55,102 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Network.prl
+2025-01-18 16:50:55,102 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsSettings.prl
+2025-01-18 16:50:55,102 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickDialogs2QuickImpl.prl
+2025-01-18 16:50:55,102 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6XcbQpa.prl
+2025-01-18 16:50:55,103 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6OpenGLWidgets.prl
+2025-01-18 16:50:55,103 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlDom.prl
+2025-01-18 16:50:55,103 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlCompiler.prl
+2025-01-18 16:50:55,103 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6UiTools.prl
+2025-01-18 16:50:55,103 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6PrintSupport.prl
+2025-01-18 16:50:55,104 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Concurrent.prl
+2025-01-18 16:50:55,104 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickLayouts.prl
+2025-01-18 16:50:55,104 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Gui.prl
+2025-01-18 16:50:55,104 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickParticles.prl
+2025-01-18 16:50:55,104 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickEffects.prl
+2025-01-18 16:50:55,105 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Svg.prl
+2025-01-18 16:50:55,105 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6PacketProtocol.prl
+2025-01-18 16:50:55,105 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6InputSupport.prl
+2025-01-18 16:50:55,105 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsSharedImage.prl
+2025-01-18 16:50:55,105 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickTestUtils.prl
+2025-01-18 16:50:55,106 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6KmsSupport.prl
+2025-01-18 16:50:55,106 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6ExampleIcons.prl
+2025-01-18 16:50:55,106 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickControls2.prl
+2025-01-18 16:50:55,106 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Designer.prl
+2025-01-18 16:50:55,106 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Core.prl
+2025-01-18 16:50:55,107 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6DBus.prl
+2025-01-18 16:50:55,107 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickControls2Impl.prl
+2025-01-18 16:50:55,107 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6FbSupport.prl
+2025-01-18 16:50:55,107 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6EglFsKmsSupport.prl
+2025-01-18 16:50:55,108 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlCore.prl
+2025-01-18 16:50:55,108 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickControlsTestUtils.prl
+2025-01-18 16:50:55,108 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickDialogs2Utils.prl
+2025-01-18 16:50:55,108 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6DesignerComponents.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickWidgets.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlModels.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsWavefrontMesh.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlWorkerScript.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Quick.prl
+2025-01-18 16:50:55,109 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QuickDialogs2.prl
+2025-01-18 16:50:55,110 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlXmlListModel.prl
+2025-01-18 16:50:55,110 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6LabsQmlModels.prl
+2025-01-18 16:50:55,110 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Xml.prl
+2025-01-18 16:50:55,110 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6QmlLocalStorage.prl
+2025-01-18 16:50:55,110 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6DeviceDiscoverySupport.prl
+2025-01-18 16:50:55,111 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6Qml.prl
+2025-01-18 16:50:55,112 - aqt.updater - INFO - updater 140541299775296 Patching /home/nog/input-leap-master/cmake/6.5.2/gcc_64/lib/libQt6WaylandEglClientHwIntegration.prl
+2025-01-18 16:50:55,113 - aqt.main - INFO - installer 140541299775296 Finished installation
+2025-01-18 16:50:55,113 - aqt.main - INFO - installer 140541299775296 Time elapsed: 53.47959231 second
